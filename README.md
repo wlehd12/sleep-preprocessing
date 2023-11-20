@@ -13,7 +13,8 @@
 
 1)특징 정규화
 
-![image](https://github.com/wlehd12/sleep-preprocessing/assets/125344095/c109a895-05bc-4366-b2d9-a741db6ee002)
+![image](https://github.com/wlehd12/sleep-preprocessing/assets/125344095/a16bc687-5ca6-443c-a4a0-033eb80569de)
+
 
 -특징값의 크기가 사람마다 다름 -> 0-1사이로 scaling
 
