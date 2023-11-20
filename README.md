@@ -22,6 +22,7 @@
 
 -다양한 노이즈로 인해 원 신호와 복구한 신호의 차이 중 작은 차이가 있는 경우 역치 함수 적
 
-![image](https://github.com/wlehd12/sleep-preprocessing/assets/125344095/9dc3a168-9b44-411b-8b53-f5a7e66e5351)
+![image](https://github.com/wlehd12/sleep-preprocessing/assets/125344095/692b09c4-a7c7-412e-84b6-87ed9c5ae5c1)
+
 
 
